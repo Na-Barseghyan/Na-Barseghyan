@@ -9,7 +9,6 @@ I've been learning to code already 4 month starting with HTML, and CSS. Now I'm 
 
 * 🌍  I'm based in Gyumri
 * ✉️  You can contact me at [nar.barseghyan99@gmail.com](mailto:nar.barseghyan99@gmail.com)
-* 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
